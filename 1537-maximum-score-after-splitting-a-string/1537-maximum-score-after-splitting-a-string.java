@@ -1,28 +1,27 @@
-public class Solution {
-    public int maxScore(String inputStr) {
-        int zeroCount=0;
-        int oneCount=0;
-        int splitZeroCount=0;
-        int splitOneCount=0;
-        int maxScore=0;
-        int len=inputStr.length();
+class Solution {
+    public int maxScore(String s) {
+        int[] arr=new int[s.length()];
+        int c=0;
+        for(int i=0;i<s.length();i++){
+            if(s.charAt(i)=='0'){
+                c+=1;
+            }
+            arr[i]=c;
+        }
+        // 111122
+        int n=s.length();
+        int ans=0;
+        for(int i=0;i<n-1;i++){
+            // zeroes from i+1 to last;
+            int p=arr[n-1]-arr[i];
+            // ones from i+1 to last
+            int ones=n-(i+1)-p;
+            ones+=arr[i];
+            ans=Math.max(ans,ones);
+        }
+        return ans;
 
-        for(int i=0;i<len;i++)
-        {
-            if(inputStr.charAt(i)=='0')
-            zeroCount++;
-            else
-            oneCount++;
-        }
-        for(int i=0;i<len-1;i++)
-        {
-            if(inputStr.charAt(i)=='0')
-            splitZeroCount++;
-            else
-            splitOneCount++;
-            int score=splitZeroCount+(oneCount-splitOneCount);
-            maxScore=Math.max(score, maxScore);
-        }
-        return maxScore;
+
+        
     }
 }
