@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0151-reverse-words-in-a-string) |
 | [0952-word-subsets](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1524-string-matching-in-an-array) |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1502-construct-k-palindrome-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
