@@ -7,7 +7,7 @@ class Solution {
             StringBuilder temp=new StringBuilder();
             list.add(temp);
         }
-        if(numRows==1)
+        if (numRows == 1 || len <= numRows)
         return s;
         int idx=0;
         int nRow=0;
