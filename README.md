@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0055-jump-game) |
 | [0238-product-of-array-except-self](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0238-product-of-array-except-self) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0380-insert-delete-getrandom-o1) |
 | [0952-word-subsets](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0013-roman-to-integer) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0380-insert-delete-getrandom-o1) |
 | [0952-word-subsets](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0013-roman-to-integer) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0380-insert-delete-getrandom-o1) |
 ## Counting
 |  |
 | ------- |
@@ -99,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0151-reverse-words-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
