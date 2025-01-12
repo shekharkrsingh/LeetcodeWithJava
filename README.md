@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0151-reverse-words-in-a-string) |
