@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0380-insert-delete-getrandom-o1) |
 | [0952-word-subsets](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0952-word-subsets) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0135-candy) |
 | [1502-construct-k-palindrome-strings](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1502-construct-k-palindrome-strings) |
 ## Math
 |  |
