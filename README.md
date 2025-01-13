@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0380-insert-delete-getrandom-o1) |
 | [0952-word-subsets](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0952-word-subsets) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0392-is-subsequence) |
 ## Design
 |  |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0380-insert-delete-getrandom-o1) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
