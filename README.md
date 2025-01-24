@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0055-jump-game) |
+| [0128-longest-consecutive-sequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0219-contains-duplicate-ii) |
@@ -224,5 +226,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0128-longest-consecutive-sequence) |
 | [1396-count-servers-that-communicate](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
