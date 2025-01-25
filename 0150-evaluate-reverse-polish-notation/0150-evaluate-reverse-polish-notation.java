@@ -15,7 +15,6 @@ class Solution {
             }
             if (c.equals("*")) {
                 st.push(st.pop() * st.pop());
-                ;
                 continue;
             }
             if (c.equals("/")) {
@@ -30,15 +29,15 @@ class Solution {
 
     private int stringToNumber(String c) {
         int num = 0;
-        boolean flag=false;
+        boolean flag = false;
         for (int j = 0; j < c.length(); j++) {
-            if(c.charAt(j)=='-'){
-            flag=true;
-            continue;
+            if (c.charAt(j) == '-') {
+                flag = true;
+                continue;
             }
             num *= 10;
             num += c.charAt(j) - '0';
         }
-        return flag?(-1*num):num;
+        return flag ? (-1 * num) : num;
     }
 }
