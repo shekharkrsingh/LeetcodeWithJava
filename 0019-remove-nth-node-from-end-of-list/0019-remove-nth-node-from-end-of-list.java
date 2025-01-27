@@ -17,8 +17,6 @@ class Solution {
             node = node.next;
         }
         count -= n;
-        // if (count < 0)
-        //     return head;
         if (count == 0)
             return head.next;
         node = head;
