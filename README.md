@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0854-making-a-large-island) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0226-invert-binary-tree) |
 | [0684-redundant-connection](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1396-count-servers-that-communicate) |
@@ -300,9 +302,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
