@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0155-min-stack) |
+| [3447-clear-digits](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3447-clear-digits) |
 ## Ordered Set
 |  |
 | ------- |
