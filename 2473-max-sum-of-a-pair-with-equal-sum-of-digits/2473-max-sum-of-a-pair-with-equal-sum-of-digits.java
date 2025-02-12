@@ -1,29 +1,23 @@
+import java.util.*;
+
 class Solution {
     public int maximumSum(int[] nums) {
-        int n = nums.length;
+        Map<Integer, int[]> map = new HashMap<>();
         int maxVal = -1;
-        Map<Integer, List<Integer>> map = new HashMap<>();
-        for (int i = 0; i < n; i++) {
-            int sum = sumOfDegi(nums[i]);
-            if (map.containsKey(sum)) {
-                List<Integer> list = map.get(sum);
-                list.add(nums[i]);
-                map.put(sum, list);
-            } else {
-                List<Integer> list = new ArrayList<>();
-                list.add(nums[i]);
-                map.put(sum, list);
-            }
+        for (int num : nums) {
+            int sum = sumOfDegi(num);
+            int[] largest = map.getOrDefault(sum, new int[] { -1, -1 });
+            if (num > largest[0]) {
+                largest[1] = largest[0];
+                largest[0] = num;
+            } else if (num > largest[1])
+                largest[1] = num;
+            map.put(sum, largest);
         }
-        for (Map.Entry<Integer, List<Integer>> a : map.entrySet()) {
-            List<Integer> list = a.getValue();
-            int size = list.size();
-            Collections.sort(list);
-            if (size > 1)
-                maxVal = Math.max(maxVal, list.get(size - 2) + list.get(size - 1));
-        }
+        for (int[] largest : map.values())
+            if (largest[1] != -1)
+                maxVal = Math.max(maxVal, largest[0] + largest[1]);
         return maxVal;
-
     }
 
     private int sumOfDegi(int num) {
