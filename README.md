@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0854-making-a-large-island) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0055-jump-game) |
+| [0322-coin-change](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0854-making-a-large-island) |
