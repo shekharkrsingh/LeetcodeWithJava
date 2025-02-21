@@ -1,4 +1,3 @@
-
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -14,26 +13,24 @@
  *     }
  * }
  */
-import java.util.HashSet;
-
 class FindElements {
-    HashSet<Integer> set = new HashSet<>();
-
-    public void dfs(TreeNode root, int x) {
-        if (root == null)
-            return;
-        root.val = x;
-        set.add(x);
-        dfs(root.left, 2 * x + 1);
-        dfs(root.right, 2 * x + 2);
-    }
-
+    Set<Integer> set=new HashSet<>();
     public FindElements(TreeNode root) {
-        dfs(root, 0);
+        regenerate(root, 0);
     }
-
+    
     public boolean find(int target) {
         return set.contains(target);
+    }
+
+    private void regenerate(TreeNode root, int val){
+        if(root==null)
+        return;
+        set.add(val);
+        root.val=val;
+        val*=2;
+        regenerate(root.left, val+1);
+        regenerate(root.right, val+2);
     }
 }
 
