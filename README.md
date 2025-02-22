@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0392-is-subsequence) |
 | [0952-word-subsets](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0952-word-subsets) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0226-invert-binary-tree) |
 | [0684-redundant-connection](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0854-making-a-large-island) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1396-count-servers-that-communicate) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0226-invert-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0226-invert-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Simulation
 |  |
