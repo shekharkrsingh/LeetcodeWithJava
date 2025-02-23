@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0407-trapping-rain-water-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0747-min-cost-climbing-stairs) |
 | [0854-making-a-large-island](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0854-making-a-large-island) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1396-count-servers-that-communicate) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0383-ransom-note) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1364-tuple-with-same-product) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0226-invert-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0226-invert-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Simulation
@@ -397,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
