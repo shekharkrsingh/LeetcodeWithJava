@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0747-min-cost-climbing-stairs) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
 |  |
 | ------- |
