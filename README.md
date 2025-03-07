@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0226-invert-binary-tree) |
 | [0684-redundant-connection](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0684-redundant-connection) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0020-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0155-min-stack) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0141-linked-list-cycle) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0226-invert-binary-tree) |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0226-invert-binary-tree) |
