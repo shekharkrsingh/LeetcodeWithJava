@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0952-word-subsets) |
+| [1025-minimum-cost-for-tickets](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1025-minimum-cost-for-tickets) |
 | [1364-tuple-with-same-product](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1477-product-of-the-last-k-numbers) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1025-minimum-cost-for-tickets](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1025-minimum-cost-for-tickets) |
 | [1170-shortest-common-supersequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
