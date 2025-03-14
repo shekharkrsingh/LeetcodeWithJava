@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1025-minimum-cost-for-tickets) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1477-product-of-the-last-k-numbers) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0268-missing-number) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3643-zero-array-transformation-ii) |
 ## Brainteaser
