@@ -9,7 +9,6 @@ class Solution {
     }
 
     private void bfs(int[][] image, int sr, int sc, int color, boolean[][] visited, int n, int m, int startColor) {
-        System.out.println(sr + " " + sc);
         if (sr >= n || sc >= m || sr < 0 || sc < 0 || image[sr][sc] != startColor || visited[sr][sc])
             return;
         visited[sr][sc] = true;
