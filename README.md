@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0238-product-of-array-except-self) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0407-trapping-rain-water-ii) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0854-making-a-large-island) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0226-invert-binary-tree) |
 | [0684-redundant-connection](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0733-flood-fill) |
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1396-count-servers-that-communicate) |
