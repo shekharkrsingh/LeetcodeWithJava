@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0268-missing-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3643-zero-array-transformation-ii) |
 ## Brainteaser
