@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1502-construct-k-palindrome-strings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2509-minimize-xor) |
+| [3001-apply-operations-to-maximize-score](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3001-apply-operations-to-maximize-score) |
 ## Math
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3001-apply-operations-to-maximize-score](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0155-min-stack) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
@@ -537,8 +542,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3001-apply-operations-to-maximize-score) |
 ## Queue
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
