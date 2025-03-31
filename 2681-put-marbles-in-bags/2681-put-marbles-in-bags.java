@@ -12,9 +12,9 @@ class Solution {
         long minSum = 0;
         for (int i = 0; i < k - 1; i++)
             minSum += list.get(i);
-        Collections.sort(list, Collections.reverseOrder());
         long maxSum = 0;
-        for (int i = 0; i < k - 1; i++)
+        int m=list.size();
+        for (int i=m-1;i>=m-k+1;i--)
             maxSum += list.get(i);
         return maxSum - minSum;
     }
