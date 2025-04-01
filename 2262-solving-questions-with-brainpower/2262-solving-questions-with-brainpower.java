@@ -1,15 +1,18 @@
 class Solution {
     public long mostPoints(int[][] questions) {
         long[] dp = new long[questions.length];
-        for (int i = questions.length - 1; i >= 0; i--) {
-            int idx = i + questions[i][1] + 1;
-            if (idx < questions.length)
-                dp[i] = dp[idx] + questions[i][0];
-            else
-                dp[i] = questions[i][0];
-            if (i < questions.length - 1)
-                dp[i] = Math.max(dp[i + 1], dp[i]);
-        }
-        return dp[0];
+        Arrays.fill(dp, -1);
+        return sol(0, questions, dp);
+    }
+
+    private long sol(int idx, int[][] questions, long[] dp) {
+        if (idx >= questions.length)
+            return 0;
+        if (dp[idx] != -1)
+            return dp[idx];
+        long notTake = sol(idx + 1, questions, dp);
+        long take = sol(idx + questions[idx][1] + 1, questions, dp) + questions[idx][0];
+        dp[idx] = Math.max(take, notTake);
+        return dp[idx];
     }
 }
