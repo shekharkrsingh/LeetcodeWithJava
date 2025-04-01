@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2206-detonate-the-maximum-bombs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2206-detonate-the-maximum-bombs) |
 | [2262-solving-questions-with-brainpower](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2206-detonate-the-maximum-bombs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2206-detonate-the-maximum-bombs) |
 | [2448-count-number-of-bad-pairs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2649-count-total-number-of-colored-cells) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2121-find-if-path-exists-in-graph) |
+| [2206-detonate-the-maximum-bombs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2206-detonate-the-maximum-bombs) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2121-find-if-path-exists-in-graph) |
+| [2206-detonate-the-maximum-bombs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2206-detonate-the-maximum-bombs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2793-count-the-number-of-complete-components](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2793-count-the-number-of-complete-components) |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2121-find-if-path-exists-in-graph) |
+| [2206-detonate-the-maximum-bombs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2206-detonate-the-maximum-bombs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2793-count-the-number-of-complete-components) |
@@ -561,4 +566,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3001-apply-operations-to-maximize-score) |
+## Geometry
+|  |
+| ------- |
+| [2206-detonate-the-maximum-bombs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2206-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
