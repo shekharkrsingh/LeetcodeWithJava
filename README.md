@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0392-is-subsequence) |
+| [0552-student-attendance-record-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0552-student-attendance-record-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1025-minimum-cost-for-tickets) |
