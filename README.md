@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1503-reducing-dishes](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1503-reducing-dishes) |
 | [1524-string-matching-in-an-array](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1025-minimum-cost-for-tickets) |
 | [1170-shortest-common-supersequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1170-shortest-common-supersequence) |
+| [1503-reducing-dishes](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1503-reducing-dishes) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0768-partition-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1502-construct-k-palindrome-strings) |
+| [1503-reducing-dishes](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1503-reducing-dishes) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2681-put-marbles-in-bags) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0268-missing-number) |
+| [1503-reducing-dishes](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1503-reducing-dishes) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2588-maximum-number-of-points-from-grid-queries) |
