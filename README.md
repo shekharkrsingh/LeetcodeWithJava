@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0416-partition-equal-subset-sum) |
 | [0733-flood-fill](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0747-min-cost-climbing-stairs) |
 | [0854-making-a-large-island](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0854-making-a-large-island) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0416-partition-equal-subset-sum) |
 | [0552-student-attendance-record-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0552-student-attendance-record-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0905-length-of-longest-fibonacci-subsequence) |
