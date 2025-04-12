@@ -16,7 +16,6 @@ class Solution {
         allPall(true, n, 0, listOfPall, 0);
         long count = 0;
         Set<String> set = new HashSet<>();
-        System.out.println(listOfPall);
         for (long it : listOfPall) {
             if (it % k != 0)
                 continue;
@@ -26,23 +25,7 @@ class Solution {
             st = new String(charArray);
             if (set.contains(st))
                 continue;
-            int[] map = new int[10];
-            for (int i = 0; i < st.length(); i++) {
-                map[st.charAt(i) - '0']++;
-            }
-            int totalComb = factorial[st.length()];
-            for (int i = 0; i < 10; i++) {
-                totalComb /= factorial[map[i]];
-            }
-            int notComb = 0;
-            if (map[0] > 0) {
-                notComb = factorial[st.length() - 1];
-                notComb /= factorial[map[0] - 1];
-                for (int i = 1; i < 10; i++) {
-                    notComb /= factorial[map[i]];
-                }
-            }
-            count += (totalComb - notComb);
+            count+=permutation(st);
             set.add(st);
         }
         return count;
@@ -69,5 +52,25 @@ class Solution {
         StringBuilder s = new StringBuilder(num + "");
         s.reverse();
         return s.toString();
+    }
+
+    private int permutation(String st){
+        int[] map = new int[10];
+            for (int i = 0; i < st.length(); i++) {
+                map[st.charAt(i) - '0']++;
+            }
+            int totalComb = factorial[st.length()];
+            for (int i = 0; i < 10; i++) {
+                totalComb /= factorial[map[i]];
+            }
+            int notComb = 0;
+            if (map[0] > 0) {
+                notComb = factorial[st.length() - 1];
+                notComb /= factorial[map[0] - 1];
+                for (int i = 1; i < 10; i++) {
+                    notComb /= factorial[map[i]];
+                }
+            }
+            return totalComb - notComb;
     }
 }
