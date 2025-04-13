@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0952-word-subsets) |
+| [1078-remove-outermost-parentheses](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1170-shortest-common-supersequence) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0155-min-stack) |
+| [1078-remove-outermost-parentheses](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3001-apply-operations-to-maximize-score) |
