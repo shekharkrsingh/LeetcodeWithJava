@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0055-jump-game) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0368-largest-divisible-subset) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0226-invert-binary-tree) |
 | [0684-redundant-connection](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0684-redundant-connection) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0226-invert-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0226-invert-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
