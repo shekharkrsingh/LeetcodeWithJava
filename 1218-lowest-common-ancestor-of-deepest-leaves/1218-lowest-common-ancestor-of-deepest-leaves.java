@@ -13,31 +13,30 @@
  *     }
  * }
  */
-public class Pair {
-    TreeNode ancestor = null;
-    int height = 0;
+ class Pair{
+    int height;
+    TreeNode anc;
 
-    Pair(TreeNode ancestor, int height) {
-        this.ancestor = ancestor;
-        this.height = height;
+    Pair(int height, TreeNode anc){
+        this.height=height;
+        this.anc=anc;
     }
-}
-
+ }
 class Solution {
     public TreeNode lcaDeepestLeaves(TreeNode root) {
-        Pair p = recursion(root);
-        return p.ancestor;
+        return sol(root).anc;
     }
 
-    private Pair recursion(TreeNode node) {
-        if (node == null)
-            return new Pair(null, 0);
-        Pair left = recursion(node.left);
-        Pair right = recursion(node.right);
-        if (left.height == right.height)
-            return new Pair(node, left.height + 1);
-        if (left.height > right.height)
-            return new Pair(left.ancestor, left.height + 1);
-        return new Pair(right.ancestor, right.height + 1);
+    private Pair sol(TreeNode node){
+        if(node==null)
+        return new Pair(0, null);
+        Pair left=sol(node.left);
+        Pair right=sol(node.right);
+        if(left.height==right.height)
+        return new Pair(left.height+1, node);
+        if(left.height>right.height)
+        return new Pair(left.height+1, left.anc);
+        else
+        return new Pair(right.height+1, right.anc);
     }
 }
