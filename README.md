@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1396-count-servers-that-communicate) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2121-find-if-path-exists-in-graph](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2206-detonate-the-maximum-bombs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
 |  |
 | ------- |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Simulation
 |  |
 | ------- |
