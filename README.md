@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0552-student-attendance-record-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0552-student-attendance-record-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0747-min-cost-climbing-stairs) |
 | [0804-rotated-digits](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0804-rotated-digits) |
+| [0868-push-dominoes](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1025-minimum-cost-for-tickets) |
 | [1170-shortest-common-supersequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1170-shortest-common-supersequence) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2588-maximum-number-of-points-from-grid-queries) |
