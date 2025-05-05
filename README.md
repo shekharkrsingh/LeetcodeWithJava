@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0552-student-attendance-record-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0552-student-attendance-record-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0747-min-cost-climbing-stairs) |
 | [0804-rotated-digits](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0804-rotated-digits) |
+| [0806-domino-and-tromino-tiling](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1025-minimum-cost-for-tickets) |
