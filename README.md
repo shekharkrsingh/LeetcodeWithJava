@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0416-partition-equal-subset-sum) |
+| [0665-non-decreasing-array](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0665-non-decreasing-array) |
 | [0733-flood-fill](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0797-rabbits-in-forest) |
