@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3374-count-alternating-subarrays](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3374-count-alternating-subarrays) |
 | [3429-special-array-i](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3321-type-of-triangle) |
+| [3374-count-alternating-subarrays](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3374-count-alternating-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Counting
