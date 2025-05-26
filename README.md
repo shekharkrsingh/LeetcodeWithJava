@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1524-string-matching-in-an-array) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1502-construct-k-palindrome-strings) |
 | [1503-reducing-dishes](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1503-reducing-dishes) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2509-minimize-xor) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0368-largest-divisible-subset) |
 | [1503-reducing-dishes](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1503-reducing-dishes) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2215-finding-3-digit-even-numbers) |
