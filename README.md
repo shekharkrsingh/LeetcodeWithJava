@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2465-shifting-letters-ii) |
+| [2487-optimal-partition-of-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2487-optimal-partition-of-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3194-find-words-containing-character](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2487-optimal-partition-of-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2487-optimal-partition-of-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1530-check-if-a-string-can-break-another-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2487-optimal-partition-of-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2487-optimal-partition-of-string) |
 | [2509-minimize-xor](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3001-apply-operations-to-maximize-score) |
