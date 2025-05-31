@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1524-string-matching-in-an-array) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1656-count-good-triplets) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1502-construct-k-palindrome-strings) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2107-find-unique-binary-string) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0268-missing-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2308-divide-array-into-equal-pairs) |
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1502-construct-k-palindrome-strings) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2448-count-number-of-bad-pairs) |
