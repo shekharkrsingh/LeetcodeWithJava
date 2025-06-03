@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0854-making-a-large-island) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1396-count-servers-that-communicate) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1396-count-servers-that-communicate) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0226-invert-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0226-invert-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1653-number-of-good-leaf-nodes-pairs) |
