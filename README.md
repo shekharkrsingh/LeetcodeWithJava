@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0055-jump-game) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0039-combination-sum) |
 | [1160-letter-tile-possibilities](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
