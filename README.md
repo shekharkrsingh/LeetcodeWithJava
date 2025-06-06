@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0322-coin-change) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0202-happy-number) |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/3201-distribute-candies-among-children-ii) |
