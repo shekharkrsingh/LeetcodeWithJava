@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0209-minimum-size-subarray-sum) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0219-contains-duplicate-ii) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0383-ransom-note) |
 | [1160-letter-tile-possibilities](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0368-largest-divisible-subset) |
@@ -722,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0169-majority-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2280-count-good-triplets-in-an-array) |
 ## Number Theory
