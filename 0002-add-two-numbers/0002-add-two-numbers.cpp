@@ -14,7 +14,7 @@ public:
         ListNode* head=new ListNode();
         ListNode* node=head;
         int remainder=0;
-        while(l1!=NULL || l2!=NULL  || remainder!=0){
+        while(l1!=NULL || l2!=NULL || remainder!=0){
             int add=remainder;
             if(l1!=NULL){
                 add+=l1->val;
@@ -25,8 +25,7 @@ public:
                 l2=l2->next;
             }
             remainder=add/10;
-            ListNode* newNode=new ListNode(add%10);
-            node->next=newNode;
+            node->next=new ListNode(add%10);
             node=node->next;
         }
         return head->next;
