@@ -648,11 +648,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2050-count-good-numbers) |
 ## Topological Sort
 |  |
