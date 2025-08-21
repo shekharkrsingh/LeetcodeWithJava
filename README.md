@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0377-combination-sum-iv) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0287-find-the-duplicate-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0868-push-dominoes) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0287-find-the-duplicate-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2280-count-good-triplets-in-an-array) |
