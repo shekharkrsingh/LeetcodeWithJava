@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0128-longest-consecutive-sequence) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0242-valid-anagram) |
