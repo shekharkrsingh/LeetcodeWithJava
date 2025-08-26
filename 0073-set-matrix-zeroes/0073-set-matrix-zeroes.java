@@ -1,33 +1,30 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        int[][] ans;
-        int n= matrix.length;
+        int n=matrix.length;
         int m= matrix[0].length;
-       ArrayList<Pair<Integer, Integer>> list = new ArrayList<>();
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<m; j++)
-            {
-                if(matrix[i][j]==0)
-                {
-                    list.add(new Pair(i, j));
+        Set<Integer> row= new HashSet<>();
+        Set<Integer> col= new HashSet<>();
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(matrix[i][j]==0){
+                    if(!row.contains(i)){
+                        row.add(i);
+                    }
+                    if(!col.contains(j)){
+                        col.add(j);
+                    }
                 }
             }
         }
-        int k= list.size();
-        for(int i=0;i<k;i++)
-        {
-           int fst= list.get(i).getKey();
-           int scnd= list.get(i).getValue();
-           for(int j=0;j<n;j++)
-           {
-               matrix[j][scnd]=0;
-           }
-           for(int j=0;j<m;j++)
-           {
-               matrix[fst][j]=0;
-           }
-        }
-
+        row.stream().forEach(it-> {
+           for(int i=0;i<m;i++){
+                matrix[it][i]=0;
+            } 
+        });
+        col.stream().forEach(it-> {
+           for(int i=0;i<n;i++){
+                matrix[i][it]=0;
+            } 
+        });
     }
 }
