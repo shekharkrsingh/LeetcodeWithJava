@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/shekharkrsingh/LeetcodeWithJava/tree/master/2050-count-good-numbers) |
 ## Topological Sort
