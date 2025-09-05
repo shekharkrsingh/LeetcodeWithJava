@@ -7,13 +7,11 @@ class Solution {
                 int t=0;
                 if (i + 1 < n) {
                     count += dp[i + 1][j];
-                    t++;
                 }
-                if (j + 1 < m) {
-                    t++;
+                if (j + 1 < m) { 
                     count += dp[i][j + 1];
                 }
-                if(t==2){
+                if(i + 1 < n && j + 1 < m){
                     count++;
                 }
                 dp[i][j] = count;
